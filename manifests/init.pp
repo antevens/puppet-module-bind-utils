@@ -1,4 +1,4 @@
-# == Class: bind-utils
+# == Class: jalli-bind-utils
 #
 # Setup bind-utils on redhat based systems (Centos, Fedora, RHEL, etc) or dnsutils on debian based systems (Ubuntu, Mint, Debian, etc)
 #
